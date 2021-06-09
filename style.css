@@ -1,0 +1,20 @@
+h1 {
+	color:green;
+	 font-family: arial;
+	}
+
+span-pink {color: pink;}
+
+span-bold {
+	font-weight: bold;
+	background: green;
+}
+
+frame {
+	border: 10px solid black;
+}
+
+body {background: nude; text-align: center;}
+
+h3	{text-align: left;}
+ol	{text-align: left;}
